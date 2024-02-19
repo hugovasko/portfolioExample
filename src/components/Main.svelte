@@ -50,11 +50,13 @@
         <div
             class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10"
         >
+        <div>
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-                Hi! I'm <span class="poppins text-violet-400">Samuel</span> Oak
-                <br />Full Stack
-                <span class="poppins text-violet-400">Developer</span>
+                Hi! We're <span class="poppins text-violet-400">Code</span>Crew
+                <br />Sofware <span class="poppins text-violet-400">Developement</span>
+                Company
             </h2>
+        </div>
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400"> favorite tech</span> includes JavaScript
                 (NEXT.JS or SvelteKit), TailwindCSS, Node.js + Express.js & PostgreSQL
@@ -72,8 +74,8 @@
         <div class="relative shadow-2xl grid place-items-center">
             <img
                 src={"images/profile.png"}
-                alt="Zetane Engine"
-                class="object-cover z-[2] max-h-[70vh]"
+                alt="CodeCrew logo"
+                class="object-cover z-[2] max-h-[60vh]"
             />
         </div>
         <!-- <div  class="flex p-0.5 relative max-w-[700px] w-full mx-auto">
